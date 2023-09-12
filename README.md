@@ -1,5 +1,7 @@
 # BDOItemFilter
 
+![image](https://cdn.discordapp.com/attachments/1051867157107048498/1052232702381797507/ezgif.com-gif-maker1.gif)
+
 This module is a item filter that when you repair on tent, it removes items you don't want in your inventory, the module will simply drag the items to the trash bin.
 
 It works by grabbing a image of the item you want removed from inventory and placing it in the ItemFilter folder in the bot folder. 
@@ -10,4 +12,4 @@ Try to grab a entire inventory tile of the item, so you see the item Icon with t
 ![image](https://github.com/NoPainNullGain/BDOItemFilter/assets/5794831/d1613acb-bc56-4b9c-8a71-f7e25c693ac4)
 
 
-https://cdn.discordapp.com/attachments/1051867157107048498/1052232702381797507/ezgif.com-gif-maker1.gif
+
