@@ -1,4 +1,4 @@
-# BDOItemFilter
+# Black Desert Online Item Filter
 
 This module is a item filter that when you repair on tent, it removes items you don't want in your inventory, the module will simply drag the items to the trash bin.
 
