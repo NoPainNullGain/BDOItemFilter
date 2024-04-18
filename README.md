@@ -14,5 +14,6 @@ Try to grab a entire inventory tile of the item, so you see the item Icon with t
 # Refference item images to delete in folder
 ![image](https://github.com/NoPainNullGain/BDOItemFilter/assets/5794831/d1613acb-bc56-4b9c-8a71-f7e25c693ac4)
 
-
+# Protected columns
+![image](https://github.com/NoPainNullGain/VioletBot_ItemFilter/assets/5794831/72ad61d1-35f2-4937-bfc2-535067af2e33)
 
